@@ -1,0 +1,6 @@
+{
+  "name": "MINI Games",
+  "description": "Games in your Pocket - A collection of hand-picked premium web mini games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
